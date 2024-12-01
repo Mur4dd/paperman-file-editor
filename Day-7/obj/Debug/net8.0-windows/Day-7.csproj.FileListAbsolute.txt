@@ -1,0 +1,16 @@
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\bin\Debug\net8.0-windows\Day-7.exe
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\bin\Debug\net8.0-windows\Day-7.deps.json
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\bin\Debug\net8.0-windows\Day-7.runtimeconfig.json
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\bin\Debug\net8.0-windows\Day-7.dll
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\bin\Debug\net8.0-windows\Day-7.pdb
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day_7.Form1.resources
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.csproj.GenerateResource.cache
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.dll
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\refint\Day-7.dll
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.pdb
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\Day-7.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Desktop\Code\C#\Day-7\Day-7\obj\Debug\net8.0-windows\ref\Day-7.dll
